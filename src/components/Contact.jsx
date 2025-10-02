@@ -39,13 +39,13 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>1/136, 34th Floor, AER, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>+1-800-819-5053</p>
+		 <p></p>
 		</div>
 		
 		<div>
